@@ -2,11 +2,9 @@
 name: Pull Request
 about: Pull request.
 title: "[PULL REQUEST]"
-labels: 
+labels:
 assignees: noiz-x
-
 ---
-
 
 ## Overview
 - **Description:**  
