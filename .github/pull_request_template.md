@@ -1,13 +1,3 @@
----
-name: Pull Request
-about: Pull request.
-title: "[PULL REQUEST]"
-labels: 
-assignees: noiz-x
-
----
-
-
 ## Overview
 - **Description:**  
   Provide a concise summary of the changes made in this pull request.
@@ -41,5 +31,5 @@ Detail how you verified the changes. Include:
 - [ ] All new and existing tests pass locally.
 - [ ] I have updated relevant documentation.
 
-## Additional Notes
+## Additional Notes (if any)
 Include any extra information, performance considerations, or design choices that might help the reviewer understand your changes.

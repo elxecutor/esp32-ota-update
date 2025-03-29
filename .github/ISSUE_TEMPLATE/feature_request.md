@@ -1,38 +1,20 @@
 ---
 name: Feature request
-about: Suggest new features or improvements.
+about: Suggest an idea for this project
 title: "[FEATURE REQUEST]"
-labels: enhancement
-assignees: noiz-x
+labels: ''
+assignees: ''
 
 ---
 
-## **Feature Description**
-A clear and concise description of the feature or improvement you’d like to see in Roomify.
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-## **Problem Statement**
-Describe the problem or limitation this feature aims to solve in lecture hall reservations or student attendance tracking.
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-## **Proposed Solution**
-Describe your proposed solution, including any specific functionalities, UI/UX improvements, or backend enhancements.
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
-## **Use Case**
-Explain how this feature would be used and who would benefit from it (e.g., students, lecturers, admins).
-
-## **Mockups/Screenshots (If Applicable)**
-Attach any wireframes, diagrams, or screenshots that illustrate the feature idea.
-
-## **Technical Considerations**
-- **Frontend Changes:** [Does this require UI modifications in React?]
-- **Backend Changes:** [Will it involve new endpoints or database schema updates in Django?]
-- **APIs & Integrations:** [Does this require integration with third-party services?]
-
-## **Priority & Impact**
-- **Priority Level:** [Critical, High, Medium, Low]
-- **Impact:** [Describe how this feature will improve usability, efficiency, or functionality.]
-
-## **Alternatives Considered (If Any)**
-List any alternative approaches you considered before suggesting this feature.
-
-## **Additional Context**
-Add any other relevant details, such as dependencies, challenges, or possible future enhancements.
+**Additional context**
+Add any other context or screenshots about the feature request here.
