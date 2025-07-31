@@ -1,3 +1,11 @@
+---
+name: Pull Request
+about: Pull request.
+title: "[PULL REQUEST]"
+labels:
+assignees: noiz-x
+---
+
 ## Overview
 - **Description:**  
   Provide a concise summary of the changes made in this pull request.
